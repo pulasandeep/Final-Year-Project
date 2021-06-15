@@ -1,1 +1,4 @@
-Notes.
+Make Sure that Chrome driver is saved and path is provided perfectly.
+Ensure that Chrome is of Version 91. (If not download exact chrome driver which is matching to your present Chrome version in your computer)
+You can download any type of chrome version from this link: https://chromedriver.chromium.org/downloads 
+Make sure you installed all the relevant PIP installations which are used in ipynb file. 
